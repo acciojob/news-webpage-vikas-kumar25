@@ -28,8 +28,9 @@ body{
 	width:30%;
 	padding:10px;
 	border-radius:5px;
-	/* display:flex; */
-    /* justify-content: center; /* Center horizontally */ 
+	display:flex;
+	flex-direction:column;
+    justify-content: center; /* Center horizontally 
     align-items: center; /* Center vertically */
 	
 }
