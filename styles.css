@@ -10,7 +10,7 @@ body{
 }
 .latest-news-section{
 	background-color:white;
-	width:30%;
+	width:25%;
 	padding:10px;
 	border-radius:5px;
 	justify-items:center;
@@ -18,20 +18,19 @@ body{
 }
 .main-article{
 	background-color:white;
-	width:30%;
+	width:45%;
 	padding:10px;
 	border-radius:5px;
 	justify-items:center;
 }
 .pictorial-news-section{
 	background-color:white;
-	width:30%;
+	width:25%;
 	padding:10px;
 	border-radius:5px;
 	display:flex;
 	flex-direction:column;
-    justify-content: center; /* Center horizontally 
-    align-items: center; /* Center vertically */
+    justify-content: center; 
 	
 }
 .image{
